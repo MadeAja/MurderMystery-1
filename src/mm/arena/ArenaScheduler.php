@@ -21,7 +21,7 @@ class ArenaScheduler extends Task{
     public static $bossbar;
     
     public $waiting;
-    public $startTime = 31;
+    public $startTime = 32;
     public $gameTime = 5 * 60;
     public $restartTime = 5;
 
