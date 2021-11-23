@@ -11,4 +11,7 @@ CREDITS TO THE OWNER: LEYKEY
 - BOSSBAR CHANGE
 - ADDDED {restartt} for the scoreboard
 - restartt is the restartime
+# V4 FEATURES (COMMING SOON):
+- BEABLE TO VOTE FOR A MAP
+- CHANGING SCOREBOARD NAME...
 ------------------------------------
