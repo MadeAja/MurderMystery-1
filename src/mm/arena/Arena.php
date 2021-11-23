@@ -82,7 +82,7 @@ class Arena implements Listener{
     public $detective;
     public $deadMurderer;
 
-    public $startTime = 31;
+    public $startTime = 32;
     public $gameTime = 5 * 60;
     public $restartTime = 5;
 
